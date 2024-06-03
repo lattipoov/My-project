@@ -1,0 +1,5 @@
+ERROR:root:division by zero
+2023-11-14 19:51:58,527
+2023-11-14 19:52:03,092
+2023-11-14 19:52:45,512 division by zero
+2023-11-14 19:53:05,747 ERROR:division by zero
